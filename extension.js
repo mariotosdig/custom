@@ -19,7 +19,7 @@
         //Extend the bot here, either by calling another function or here directly.
 
         // You can add more spam words to the bot.
-        var spamWords = ['fuck', 'shit', 'cunt', 'dick', 'retard', 'kys'];
+        var spamWords = ['spam1', 'spam2', 'spam3', 'spam4', 'spam5', 'spam6'];
         for (var i = 0; i < spamWords.length; i++) {
           window.bot.chatUtilities.spam.push(spamWords[i]);
         }
@@ -90,7 +90,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: false,
       motdInterval: 5,
-      motd: "Temporary Message of the Day",
+      motd: "Temporary Message of the Day.",
       filterChat: true,
       etaRestriction: false,
       welcome: false,
