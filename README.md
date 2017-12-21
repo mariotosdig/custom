@@ -20,8 +20,6 @@ Bookmark the following script to use this fork.
 
 A detailed overview of the possible settings can be found [here](https://github.com/basicBot/custom/blob/master/settingsOverview.md).
 
-(A custom .json file can still be used for custom file settings, but is discouraged as the method provided here allows for more customization.)
-
 ###Blacklists###
 
 Blacklists can be added in the settings through either links to raw json files with the same format as those in the examples provided (forking and using [rawgit's development link](https://rawgit.com/) is a great way to do this),
