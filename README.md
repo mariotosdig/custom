@@ -13,8 +13,7 @@ Email enquiries: [hi [at] benzi [dot] io](mailto:hi@benzi.io)
 
 ---
 
-Using custom room settings or adding functionality is done by loading your own script loading and modifying the bot.
-This repository's purpose is to facilitate this. You can fork the repository and customise [the example script](https://github.com/basicBot/custom/blob/master/extension.js).
+This repo is a fork of BasicBot custom. A repo used to customize BasicBot. The original can be found here: [Original Repo](https://github.com/basicBot/custom/).
 Bookmark the following script to use this fork.
 
 `javascript:(function(){$.getScript('https://rawgit.com/mariotosdig/custom/master/extension.js');})();`
