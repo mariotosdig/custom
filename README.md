@@ -15,11 +15,9 @@ Email enquiries: [hi [at] benzi [dot] io](mailto:hi@benzi.io)
 
 Using custom room settings or adding functionality is done by loading your own script loading and modifying the bot.
 This repository's purpose is to facilitate this. You can fork the repository and customise [the example script](https://github.com/basicBot/custom/blob/master/extension.js).
-When you have forked the repo, bookmark the following script, __but change _basicBot_ to your own github handle__.
+Bookmark the following script to use this fork.
 
-`javascript:(function(){$.getScript('https://rawgit.com/basicBot/custom/master/extension.js');})();`
-
-If you are using your own hosting service for your script, swap the link with your own.
+`javascript:(function(){$.getScript('https://rawgit.com/mariotosdig/custom/master/extension.js');})();`
 
 A detailed overview of the possible settings can be found [here](https://github.com/basicBot/custom/blob/master/settingsOverview.md).
 
