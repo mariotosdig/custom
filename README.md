@@ -13,7 +13,7 @@ Email enquiries: [hi [at] benzi [dot] io](mailto:hi@benzi.io)
 
 ---
 
-This repo is a fork of BasicBot custom. A repo used to customize BasicBot. The original can be found here: [Original Repo](https://github.com/basicBot/custom/).
+This repo is a fork of BasicBot custom. A repo used to customize BasicBot. The original can be found [here](https://github.com/basicBot/custom/).
 Bookmark the following script to use this fork.
 
 `javascript:(function(){$.getScript('https://rawgit.com/mariotosdig/custom/master/extension.js');})();`
